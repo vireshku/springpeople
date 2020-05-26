@@ -1,5 +1,6 @@
 # springpeople
 code repo for heroku 
+Trying to deploy in the CI-CD mode
 
 This Activator template gets you started building java app
 
